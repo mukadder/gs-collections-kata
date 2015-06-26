@@ -24,7 +24,7 @@ import org.junit.Assert;
 /**
  * A company has a {@link MutableList} of {@link Customer}s.  It has an array of {@link Supplier}s, and a name.
  */
-public class Company3322
+public class Company3322fsegfs
 {
     private final String name;
     private final MutableList<Customer> customers = FastList.newList();
